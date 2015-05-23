@@ -1,4 +1,4 @@
-Sugar :- 2 Tea Spoon
+Sugar :- 3 Tea Spoon
 Tea :- 1 Spoon
 Water :- 30 ML
 Milk :- 50ml
